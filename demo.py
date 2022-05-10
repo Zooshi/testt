@@ -5,4 +5,4 @@ app =  Flask()
 df =pd.read_csv("customers.csv")
 print(df.head())
 print('done')
-assert 5 == 5
+assert 6==6
